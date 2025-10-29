@@ -1,6 +1,6 @@
 # GSI Visitor Log - Digital Guestbook Application
 
-[cite_start]A simple and efficient digital visitor management system created to streamline the guest check-in process at the Genomics Clinic (PT GSI) office[cite: 8, 12]. [cite_start]This application replaces the traditional paper guestbook, enhancing security and operational efficiency by maintaining a digital record of all visitors. [cite: 12]
+A simple and efficient digital visitor management system created to streamline the guest check-in process at the Genomics Clinic (PT GSI) office. This application replaces the traditional paper guestbook, enhancing security and operational efficiency by maintaining a digital record of all visitors. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
