@@ -32,7 +32,4 @@
 
 ### Screenshot / Demo
 
-*(It is highly recommended to add a screenshot or an animated GIF here to show what your application looks like.)*
-
-![Application Screenshot]([<img width="1844" height="928" alt="gambar" src="https://github.com/user-attachments/assets/58734439-7d5a-41d9-af67-cb5ba917ef9b" />
-])
+[<img width="1844" height="928" alt="gambar" src="https://github.com/user-attachments/assets/58734439-7d5a-41d9-af67-cb5ba917ef9b" />
