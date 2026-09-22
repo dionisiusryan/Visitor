@@ -42,5 +42,7 @@ A simple and efficient digital visitor management system created to streamline t
 <img width="1289" height="620" alt="gambar" src="https://github.com/user-attachments/assets/844f519b-8617-47d2-a5be-5ba53b876c24" />
 <img width="1289" height="620" alt="gambar" src="https://github.com/user-attachments/assets/49db6082-cfbd-4a26-9c8f-7dba1c22be1d" />
 <img width="1289" height="620" alt="gambar" src="https://github.com/user-attachments/assets/e318e2ac-2b33-4841-b881-790a0b57ce24" />
+<img width="555" height="301" alt="gambar" src="https://github.com/user-attachments/assets/d606baa5-f8b6-4e54-b00c-4183095240c1" />
+
 
 
