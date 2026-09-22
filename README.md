@@ -36,7 +36,11 @@ A simple and efficient digital visitor management system created to streamline t
 ---
 
 ### Screenshot / Demo
-<img width="1289" height="820" alt="Check-in Form" src="https://github.com/user-attachments/assets/369c5fef-5dec-45ac-9c65-659d6f51272d" />
-<img width="1765" height="599" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/57023a5a-e514-4dba-9b51-1a83b392e31c" />
-<img width="1772" height="572" alt="Reporting View" src="https://github.com/user-attachments/assets/d9d98749-f040-4316-b35d-eb604dc912e9" />
-<img width="793" height="860" alt="gambar" src="https://github.com/user-attachments/assets/844f519b-8617-47d2-a5be-5ba53b876c24" />
+<img width="1289" height="620" alt="Check-in Form" src="https://github.com/user-attachments/assets/369c5fef-5dec-45ac-9c65-659d6f51272d" />
+<img width="1289" height="620" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/57023a5a-e514-4dba-9b51-1a83b392e31c" />
+<img width="1289" height="620" alt="Reporting View" src="https://github.com/user-attachments/assets/d9d98749-f040-4316-b35d-eb604dc912e9" />
+<img width="1289" height="620" alt="gambar" src="https://github.com/user-attachments/assets/844f519b-8617-47d2-a5be-5ba53b876c24" />
+<img width="1289" height="620" alt="gambar" src="https://github.com/user-attachments/assets/49db6082-cfbd-4a26-9c8f-7dba1c22be1d" />
+<img width="1289" height="620" alt="gambar" src="https://github.com/user-attachments/assets/e318e2ac-2b33-4841-b881-790a0b57ce24" />
+
+
